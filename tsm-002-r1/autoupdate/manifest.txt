@@ -1,0 +1,3 @@
+# src_relpath                       dest_abs_path                          mode  service(optional)
+bin/adc_data_mediator              /usr/bin/adc_data_mediator              0755  adc-data-mediator
+init/adc_data_mediator_c_service   /etc/init.d/adc_data_mediator_c_service 0755  adc-data-mediator
